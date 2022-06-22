@@ -17,9 +17,9 @@ Technologies Used
 ### Database management system
 - PostgresSQL
 ### Frameworks
-- React
 - Flask
 ### Libraries and tools
+- React
 - SQLAlchemy
 - Material UI
 
