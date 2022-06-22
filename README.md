@@ -1,8 +1,7 @@
 # LERT tool: Labor expenses recovery tool - Web app
-Repository for the TC3004B subject of the ITC study plan at the Tecnológico de Monterrey Campus Guadalajara. This repository contains all the the documentation related to the IBM's project we worked on. 
+Application that allows IBM staff managers to recover the expenses of their teams and overall development expenses in one place and be able to share said information efficiently among the organization.
 
 - Project Site: https://thelertproject.wordpress.com/
-
 
 ### My contribution
 I worked on  front end views and the backend which involved the API development, endpoints, DB management and the SQLALchemy implementation. 
