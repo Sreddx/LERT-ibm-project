@@ -7,7 +7,7 @@ Repository for the TC3004B subject of the ITC study plan at the Tecnológico de 
 
 
 ### My contribution
-I worked on some front end views and a lot in the backend which involved the API development, endpoints, DB management and the SQLALchemy implementation. 
+I worked on  front end views and the backend which involved the API development, endpoints, DB management and the SQLALchemy implementation. 
 
 Technologies Used
 ---------------
